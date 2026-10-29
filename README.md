@@ -11,9 +11,9 @@ A lightweight, fully local **Retrieval-Augmented Generation (RAG)** application 
 
 Built using:
 
-* [LangChain](https://www.langchain.com?utm_source=chatgpt.com)
-* [Ollama](https://ollama.com?utm_source=chatgpt.com)
-* [Chroma DB](https://www.trychroma.com?utm_source=chatgpt.com)
+* [LangChain](https://www.langchain.com)
+* [Ollama](https://ollama.com)
+* [Chroma DB](https://www.trychroma.com)
 
 This project runs **100% locally** with:
 
