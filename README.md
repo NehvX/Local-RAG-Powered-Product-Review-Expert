@@ -81,7 +81,7 @@ Dataset containing:
 
 Download and install:
 
-[Ollama Official Website](https://ollama.com/download?utm_source=chatgpt.com)
+[Ollama Official Website](https://ollama.com/download)
 
 Verify installation:
 
